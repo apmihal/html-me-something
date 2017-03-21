@@ -1,3 +1,15 @@
+p {
+    font-family: Open Sans;
+}
+
+h1 {
+    font-family: Open Sans;
+}
+
+header h1 {
+    text-align: center;
+}
+
 img {
     display: block;
     margin: auto;
@@ -27,4 +39,9 @@ article {
     border: 1px solid #3bcfed;
     box-shadow: 10px 10px 5px #3bcfed;
     padding: 10px;
+}
+
+#contact {
+    border-radius: 20px;
+    border: 2px solid #42f480;
 }
