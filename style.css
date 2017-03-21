@@ -1,6 +1,22 @@
 img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+article img {
     height: 100%;
     width: 100%;
+}
+
+header {
+    margin: auto;
+    width: 50%;
+}
+
+.mic {
+    border: 1px solid #f47d42;
+    box-shadow: 10px 10px 5px #f47d42;
 }
 
 article {
@@ -8,7 +24,7 @@ article {
     margin: auto;
     margin-bottom: 25px;
     width: 50%;
-    border: 1px solid #888888;
-    box-shadow: 10px 10px 5px #888888;
+    border: 1px solid #3bcfed;
+    box-shadow: 10px 10px 5px #3bcfed;
     padding: 10px;
 }
